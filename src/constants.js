@@ -1,0 +1,5 @@
+export const LOAD_TREE = 'LOAD_CATALOG'
+export const START = '_START'
+export const SUCCESS = '_SUCCESS'
+export const FAIL = '_FAIL'
+export const TOGGLE_TREE_NODE_EXPAND = 'TOGGLE_TREE_NODE_EXPAND'
